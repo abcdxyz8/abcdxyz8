@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and nlp.
 - 🌱 I’m currently learning reinforcement learning.
 - 💞️ I’m looking to collaborate on DL researchers.
-- 📫 How to reach me ... claraginy@gmail.com
+- 📫 How to reach me
 
 <!---
 abcdxyz8/abcdxyz8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
