@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Louis.
+- 👋 Hi, Nice to meet you!.
 - 👀 I’m interested in machine learning and blockchain.
 - 🌱 I’m currently developing crypto tokens and smart contracts.
 - 💞️ I’m looking to collaborate on ML engineers and blockchain developers.
